@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace Sol_Demo.Middleware
 {
+	//https://www.c-sharpcorner.com/article/create-a-custom-middleware-in-an-asp-net-core-application/
     // You may need to install the Microsoft.AspNetCore.Http.Abstractions package into your project
     public class ApiMemoryCacheMiddleware
     {
